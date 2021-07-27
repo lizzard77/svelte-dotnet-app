@@ -1,4 +1,27 @@
 /node_modules/
-/public/build/
-
+/wwwroot/build/
 .DS_Store
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+UserContent/
+
+# Roslyn cache directories
+*.ide/
+.vs/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
