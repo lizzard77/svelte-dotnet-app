@@ -5,4 +5,9 @@
     <RootNamespace>svelte_dotnet_app</RootNamespace>
   </PropertyGroup>
 
+    <ItemGroup>
+        <Content Remove="package.json" />
+        <Content Remove="svelte-app\**\*" />
+    </ItemGroup>
+
 </Project>
