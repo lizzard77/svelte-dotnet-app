@@ -12,7 +12,7 @@
     "@rollup/plugin-json": "^4.1.0",
     "@rollup/plugin-node-resolve": "^13.3.0",
     "rollup": "^2.72.1",
-    "rollup-plugin-css": "^1.0.0",
+    "rollup-plugin-css": "^1.0.10",
     "rollup-plugin-css-only": "^3.1.0",
     "rollup-plugin-livereload": "^2.0.5",
     "rollup-plugin-svelte": "^7.1.0",

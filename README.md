@@ -6,9 +6,14 @@ for dotnet+svelte apps
 Consists of the default [svelte app template](https://github.com/sveltejs/template) and 
 a preconfigured dotnet project, along with a matching rollup config to run.
 
-To use, clone/degit this repo (or click "Use Template"), `npm install`, then `npm run dev`
+## Usage
+To use, manually clone/degit this repo (or click "Use Template"), or degit:
 
-### How to re-create this template
+```npx degit https://github.com/lizzard77/svelte-dotnet-app <new-folder-name>```
+
+Then, run `npm install` and `npm run dev`
+
+## How to re-create this template
 
 ```
 npx degit sveltejs/template <DIR>
